@@ -1,2 +1,1 @@
-from flushSystemInfo import flushSystemInfo
-
+from .flushSystemInfo import *

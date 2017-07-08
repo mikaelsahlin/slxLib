@@ -1,1 +1,1 @@
-from listFileContent import listFileContent
+from .listFileContent import *
